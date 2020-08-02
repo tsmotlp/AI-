@@ -3,6 +3,7 @@
 
 
 ### 机器学习(Machine Learning, ML)
+* #### 线性回归(Linear Regression)
 ### 深度学习(Deep Learning, DL)
 * #### 全连接相关(Fully-connected related)
 * #### 卷积相关(Convolution related)
