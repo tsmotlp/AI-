@@ -1,7 +1,11 @@
 # AI_Interview
 为自己面试做准备
 
-
+### 数据结构与算法(Data Structure & Algorithms)
+* #### 链表(LinkList)
+* #### 树(Tree)
+* #### 图(Graph)
+* #### 动态规划(Dynamic Programming)
 ### 机器学习(Machine Learning, ML)
 * #### 线性回归(Linear Regression)
 ### 深度学习(Deep Learning, DL)
